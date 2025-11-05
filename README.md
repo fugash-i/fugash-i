@@ -1,8 +1,5 @@
- 👋 Hi, I’m @fugash-i (fugashi, he/him)
+ 👋 Hi, I’m @fugash-i (K., he/him)
 
-- major: pharmacy, molucular biology  
-- belong to: Hokkaido Univ. / HUling  
-- interests: linguistics
 
 <!---
 fugash-i/fugash-i is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
