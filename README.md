@@ -1,4 +1,4 @@
- 👋 Hi, I’m @fugash-i (K., he/him)
+ 👋 Hi, I’m K. 
 
 
 <!---
